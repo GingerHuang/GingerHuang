@@ -13,7 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  <!-- profile logo 个人资料徽标 -->
+  
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=2596be&random=false&width=435&lines=Hello!+This+is+Ginger👋.;Welcome+Golos+and+Bamao.)](https://git.io/typing-svg)
+
+<!-- profile logo 个人资料徽标 -->
   <div>
     <a href="https://space.bilibili.com/23025746?spm_id_from=333.337.0.0"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="https://blog.csdn.net/qq_38771613?type=blog"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
@@ -21,9 +26,6 @@ Here are some ideas to get you started:
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=GingerHuang&label=Views&color=2596be&style=flat" alt="访问量统计" />
   </div>
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=2596be&random=false&width=435&lines=Hello!+This+is+Ginger👋.;Welcome+Golos+and+Bamao.)](https://git.io/typing-svg)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=GingerHuang)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GingerHuang&show_icons=true)
