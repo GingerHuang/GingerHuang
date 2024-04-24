@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=2596be&random=false&width=435&lines=Hello!+This+is+Ginger👋.;Welcome+Golos+and+Bamao.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&vCenter=true&pause=1000&color=2596be&random=false&width=435&lines=Hello!+This+is+Ginger👋.;Welcome+Golos+and+Bamao.)](https://git.io/typing-svg)
 
 <!-- profile logo 个人资料徽标 -->
   <div>
