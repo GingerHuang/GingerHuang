@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
   
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=7E59F7&background=FFFFFF00&vCenter=true&random=false&width=435&lines=Hello!+This+is+Ginger.;Golos+and+Bamao+are+my+best+friends.)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=2596be&vCenter=true&random=false&width=435&lines=Hello!+This+is+Ginger👋.;Welcome+Golos+and+Bamao.)](https://git.io/typing-svg)
 
