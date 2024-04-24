@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **GingerHuang/GingerHuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=7E59F7&background=FFFFFF00&random=false&width=435&lines=Hello!+This+is+Ginger.;Golos+and+Bamao+are+my+best+friends.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=7E59F7&background=FFFFFF00&random=false&width=435&lines=Hello!+This+is+Ginger👋.;Golos+and+Bamao+are+my+best+friends.)](https://git.io/typing-svg)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=GingerHuang)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GingerHuang&show_icons=true)
