@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GingerHuang&show_icons=true)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.gitmirror.com/GingerHuang/GingerHuang/origin/snk/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.gitmirror.com/GingerHuang/GingerHuang/origin/snk/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.gitmirror/GingerHuang/GingerHuang.com/origin/snk/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.gitmirror.com/GingerHuang/GingerHuang/main/snk/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.gitmirror.com/GingerHuang/GingerHuang/main/snk/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.gitmirror/GingerHuang/GingerHuang.com/main/snk/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 
