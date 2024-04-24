@@ -30,8 +30,9 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GingerHuang&show_icons=true)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./snk/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./snk/github-snake.svg" />
+  <img alt="github-snake" src="./snk/github-snake.svg" />
 </picture>
+
 
