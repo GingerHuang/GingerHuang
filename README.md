@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=7E59F7&center=true&random=false&width=435&lines=Hello!+This+is+Ginger👋.;Welcome+Golos+and+Bamao.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=2596be&random=false&width=435&lines=Hello!+This+is+Ginger👋.;Welcome+Golos+and+Bamao.)](https://git.io/typing-svg)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=GingerHuang)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GingerHuang&show_icons=true)
