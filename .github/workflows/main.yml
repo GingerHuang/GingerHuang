@@ -1,36 +1,41 @@
-name: Snake Contrib
+<!--
+**GingerHuang/GingerHuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
+Here are some ideas to get you started:
 
-  # allows to manually run the job at any time
-  workflow_dispatch:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
+<!-- 打字动画（国内可访问镜像源） -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=2596be&vCenter=true&random=false&width=435&lines=Hello!+This+is+Ginger👋.;Welcome+Golos+and+Bamao.)](https://git.io/typing-svg)
 
-    steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snk/github-contribution-grid-snake.svg
-            dist/snk/github-contribution-grid-snake-dark.svg?palette=github-dark
+<!-- 个人资料徽标 + 访问量统计 -->
+<div align="center">
+  <a href="https://space.bilibili.com/23025746?spm_id_from=333.337.0.0"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+  <a href="https://blog.csdn.net/qq_38771613?type=blog"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
+  <a href="https://www.zhihu.com/people/huang-ge-1-24"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
+  <img src="https://komarev.com/ghpvc/?username=GingerHuang&label=Profile%20Views&color=2596be&style=flat" alt="访问量统计" />
+</div>
 
-      # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: main
-          build_dir: dist
-          keep_history: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<br/>
+
+<!-- GitHub 连续提交统计（适配国内访问） -->
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=GingerHuang&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br/>
+
+<!-- GitHub 数据统计卡片 -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GingerHuang&show_icons=true&theme=transparent&hide_border=true&icon_color=2596be&text_color=333" alt="GingerHuang's GitHub stats" />
+</div>
