@@ -40,15 +40,6 @@ Here are some ideas to get you started:
 
 <br/>
 
-<!-- 贡献贪吃蛇图（修复路径 + 适配明暗模式） -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GingerHuang/GingerHuang/main/snk/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GingerHuang/GingerHuang/main/snk/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/GingerHuang/GingerHuang/main/snk/github-contribution-grid-snake.svg" style="width: 100%;" />
-  </picture>
-</div>
-
 <!-- 可选：添加贪吃蛇图生成说明（首次使用需配置） -->
 <details>
 <summary>📌 贪吃蛇图配置说明（点击展开）</summary>
