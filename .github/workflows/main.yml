@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - snake  # 修改这里：从 main 改为 snake
+      - snake
 
 jobs:
   generate:
@@ -14,18 +14,20 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          ref: snake  # 明确指定检出 snake 分支
+          ref: snake
       
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            snk/github-contribution-grid-snake.svg
+            snk/github-contribution-grid-snake-dark.svg?palette=github-dark
       
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output  # 输出到 output 分支
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # 直接提交到当前 snake 分支，而不是 output 分支
+      - name: Commit files
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add snk/
+          git diff --staged --quiet || git commit -m "Generate Snake"
+          git push
