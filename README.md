@@ -38,13 +38,4 @@ Here are some ideas to get you started:
   ![GingerHuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=GingerHuang&show_icons=true&theme=transparent&hide_border=true&icon_color=2596be&text_color=333)
 </div>
 
-<br/>
-
-<!-- 可选：添加贪吃蛇图生成说明（首次使用需配置） -->
-<details>
-<summary>📌 贪吃蛇图配置说明（点击展开）</summary>
-1. 生成贪吃蛇SVG文件：访问 <a href="https://snake-github-contributions.vercel.app/">Snake Generator</a>，生成后下载文件；
-2. 在仓库根目录创建 `snk` 文件夹；
-3. 将下载的 `github-contribution-grid-snake.svg` 和 `github-contribution-grid-snake-dark.svg` 上传到 `snk` 目录；
-4. 刷新GitHub主页即可显示。
 </details>
