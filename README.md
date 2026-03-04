@@ -30,13 +30,15 @@
 
 <!-- GitHub 统计 -->
 <div align="center">
+  <!-- Streak Stats: 火焰配色 (红黄渐变) -->
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=GingerHuang&theme=transparent&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=GingerHuang&theme=fire&hide_border=true&background=transparent" alt="GitHub Streak" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GingerHuang&show_icons=true&theme=transparent&hide_border=true&icon_color=2596be&text_color=333" alt="GitHub Stats" />
+  <!-- GitHub Stats: 协调的暖色调 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=GingerHuang&show_icons=true&theme=transparent&hide_border=true&icon_color=e25822&text_color=e25822&title_color=e25822" alt="GitHub Stats" />
 </div>
