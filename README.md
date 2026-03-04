@@ -28,14 +28,14 @@ Here are some ideas to get you started:
 
 <!-- GitHub 连续提交统计（适配国内访问） -->
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=GingerHuang&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=GingerHuang&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  </a>
 </div>
 
 <br/>
 
 <!-- GitHub 数据统计卡片 -->
 <div align="center">
-  ![GingerHuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=GingerHuang&show_icons=true&theme=transparent&hide_border=true&icon_color=2596be&text_color=333)
+  <img src="https://github-readme-stats.vercel.app/api?username=GingerHuang&show_icons=true&theme=transparent&hide_border=true&icon_color=2596be&text_color=333" alt="GingerHuang's GitHub stats" />
 </div>
-
-</details>
